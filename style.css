@@ -13,13 +13,14 @@ body {
 
 /* HERO */
 .hero {
-  height: 100vh;
+  height: 70vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
   background: linear-gradient(135deg, #3b82f6, #8b5cf6);
+  padding: 40px 20px;
 }
   
 
