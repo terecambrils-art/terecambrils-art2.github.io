@@ -14,7 +14,7 @@ body {
 /* HERO */
 .hero {
   width: 100%;
-  min-height: 35vh;
+  min-height: 45vh;
 
   display: flex;
   flex-direction: column;
